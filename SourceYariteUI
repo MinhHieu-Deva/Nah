@@ -683,7 +683,7 @@ function Library:Window(Args)
 
         Library:Create("UIStroke", {
             Parent = NewTabs,
-            Color = Color3.fromRGB(75, 0, 38),
+            Color = Color3.fromRGB(21, 67, 96),
             Thickness = 1
         })
 
